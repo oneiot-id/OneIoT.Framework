@@ -29,3 +29,4 @@ D:\OneIoT\OneIoT Framework\OneIoT.Framework\OneIoT.Framework\obj\Debug\net8.0\re
 D:\OneIoT\OneIoT Framework\OneIoT.Framework\OneIoT.Framework\obj\Debug\net8.0\OneIoT.Framework.pdb
 D:\OneIoT\OneIoT Framework\OneIoT.Framework\OneIoT.Framework\obj\Debug\net8.0\OneIoT.Framework.genruntimeconfig.cache
 D:\OneIoT\OneIoT Framework\OneIoT.Framework\OneIoT.Framework\obj\Debug\net8.0\ref\OneIoT.Framework.dll
+D:\OneIoT\OneIoT Framework\OneIoT.Framework\OneIoT.Framework\obj\Debug\net8.0\OneIoT.Framework.sourcelink.json

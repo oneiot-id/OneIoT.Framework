@@ -7,7 +7,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d646cf09-3399-4909-b8b8-79490d53a004" name="Changes" comment="" />
+    <list default="true" id="d646cf09-3399-4909-b8b8-79490d53a004" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OneIoT.Framework/Graphic/Box.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneIoT.Framework/Graphic/Color.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneIoT.Framework/Graphic/Hierarchy.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneIoT.Framework/Graphic/IDrawable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneIoT.Framework/Graphic/IVisual.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneIoT.Framework/Graphic/Position.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneIoT.Framework/Graphic/Shader.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneIoT.Framework/Graphic/Shape.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneIoT.Framework/Graphic/Transform.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneIoT.Framework/Graphic/VisualElement.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneIoT.Framework/Graphic/shader.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneIoT.Framework/Graphic/shader.vert" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OneIoT.Framework/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OneIoT.Framework/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OneIoT.Framework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OneIoT.Framework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneIoT.Framework/Graphic/Window.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OneIoT.Framework/Graphic/Window.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneIoT.Framework/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OneIoT.Framework/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneIoT.Framework/bin/Debug/net8.0/OneIoT.Framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OneIoT.Framework/bin/Debug/net8.0/OneIoT.Framework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneIoT.Framework/bin/Debug/net8.0/OneIoT.Framework.exe" beforeDir="false" afterPath="$PROJECT_DIR$/OneIoT.Framework/bin/Debug/net8.0/OneIoT.Framework.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneIoT.Framework/bin/Debug/net8.0/OneIoT.Framework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OneIoT.Framework/bin/Debug/net8.0/OneIoT.Framework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneIoT.Framework/obj/Debug/net8.0/OneIoT.Framework.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OneIoT.Framework/obj/Debug/net8.0/OneIoT.Framework.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneIoT.Framework/obj/Debug/net8.0/OneIoT.Framework.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OneIoT.Framework/obj/Debug/net8.0/OneIoT.Framework.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneIoT.Framework/obj/Debug/net8.0/OneIoT.Framework.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OneIoT.Framework/obj/Debug/net8.0/OneIoT.Framework.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneIoT.Framework/obj/Debug/net8.0/OneIoT.Framework.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OneIoT.Framework/obj/Debug/net8.0/OneIoT.Framework.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneIoT.Framework/obj/Debug/net8.0/OneIoT.Framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OneIoT.Framework/obj/Debug/net8.0/OneIoT.Framework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneIoT.Framework/obj/Debug/net8.0/OneIoT.Framework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OneIoT.Framework/obj/Debug/net8.0/OneIoT.Framework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneIoT.Framework/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/OneIoT.Framework/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneIoT.Framework/obj/Debug/net8.0/ref/OneIoT.Framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OneIoT.Framework/obj/Debug/net8.0/ref/OneIoT.Framework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneIoT.Framework/obj/Debug/net8.0/refint/OneIoT.Framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OneIoT.Framework/obj/Debug/net8.0/refint/OneIoT.Framework.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,8 +45,13 @@
   <component name="DpaMonitoringSettings">
     <option name="autoShow" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/OneIoT.Framework/OneIoT/Graphic/Window.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/fba9afd29efa49229d2dd911da0bdfedc8e910/ef/2157540e/SafeFileHandle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OneIoT.Framework/Graphic/Transform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OneIoT.Framework/Graphic/Window.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
@@ -69,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731605614483</updated>
-      <workItem from="1731605615767" duration="553000" />
+      <workItem from="1731605615767" duration="12590000" />
     </task>
     <servers />
   </component>
